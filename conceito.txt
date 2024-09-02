@@ -1,0 +1,16 @@
+/**
+ * MODEL -> database( banco de dados ) -> Regras de negócio, funçõesque registra algumas coisas do banco de dados
+ * CONTROLLER -> Processar e chamar os dados da regra de negócio para entregar as informações, pega, trata e manda para o models e devolve ao usuário, basicamente controla o que vem da view e devolve o que vem do model
+ * VIEW -> Páginas, interação com o usuário
+ */
+
+/**
+ * bcrypt - criptografar senha
+ * cookie-parser - front no login ele armazena no cookie do navegador
+ * cors - disponibilizar a api para o front
+ * dotenv - colocar as config 
+ * jsonwebtoken - criar toks para login de usuário
+ * mysql2 - banco de dados
+ * uuid - id
+ * multer - parte de imagens do usuário
+ */
